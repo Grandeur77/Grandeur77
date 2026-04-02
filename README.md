@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an undergraduate Software Engineering student at NIBM.<br>👯 I’m looking to collaborate on frontend and backend development projects.<br>🤝 I’m looking for help with building expertise in mobile application development and exploring cutting-edge technologies.<br>🌱 I’m currently learning JavaScript frameworks, React, Flutter and backend services in microservices architecture.<br>💬 Ask me about software development, database design, or my journey in tech!<br>⚡ Fun fact: I'm always excited to discover how tech simplifies everyday life while exploring creative solutions!
+🔭 I’m a Undergraduate Trainee Software Engineer.<br>💻Currently pursuing a BSc (Hons) in Computing with specialization in Software Engineering at Coventry University.<br>👯 I’m looking to collaborate on frontend and backend development projects.<br>🤝 I’m looking for help with building expertise in mobile application development and exploring cutting-edge technologies.<br>🌱 I’m currently learning JavaScript frameworks, React, Flutter and backend services in microservices architecture.<br>💬 Ask me about software development, database design, or my journey in tech!<br>⚡ Fun fact: I'm always excited to discover how tech simplifies everyday life while exploring creative solutions!
 
 
 ## 🌐 Socials:
